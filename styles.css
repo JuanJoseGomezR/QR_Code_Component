@@ -6,7 +6,7 @@
     --color-grayish-blue: hsl(220, 15%, 55%);
     --color-dark-blue: hsl(218, 44%, 22%);
 
-    --font-400: normal 400 1rem "Outfit", Sans-serif;
+    --font-400: normal 400 1.2rem "Outfit", Sans-serif;
     --font-700: normal 700 1.5rem "Outfit", Sans-serif;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 .card__text {
-    margin-top: 50px;
+    margin-top: 45px;
     text-align: center;
 }
 
@@ -73,7 +73,7 @@ body {
 .card__text p {
     font: var(--font-400);
     color: var(--color-grayish-blue);
-    padding: 0 1rem;
+    padding: 0 0.2rem;
 }
 
 
